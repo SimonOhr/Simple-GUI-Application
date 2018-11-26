@@ -1,0 +1,9 @@
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment1CSharpDotNet\BuisnessLayer\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment1CSharpDotNet\BuisnessLayer\BuisnessLayer\bin\Debug\EstateLogic.dll
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment1CSharpDotNet\BuisnessLayer\BuisnessLayer\bin\Debug\EstateLogic.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment1CSharpDotNet\BuisnessLayer\BuisnessLayer\bin\Debug\DataLayer.dll
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment1CSharpDotNet\BuisnessLayer\BuisnessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment1CSharpDotNet\BuisnessLayer\BuisnessLayer\obj\Debug\BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment1CSharpDotNet\BuisnessLayer\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment1CSharpDotNet\BuisnessLayer\BuisnessLayer\obj\Debug\EstateLogic.dll
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment1CSharpDotNet\BuisnessLayer\BuisnessLayer\obj\Debug\EstateLogic.pdb

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfBuilding xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Building xsi:type="Residental">
+    <street>c</street>
+    <city>b</city>
+    <country>Italy</country>
+    <legalForm>Tenement</legalForm>
+    <typeOfBuilding>House</typeOfBuilding>
+    <zipCode>d</zipCode>
+    <id>a</id>
+    <BuildingInfo>
+      <string>a</string>
+      <string>House</string>
+      <string>Tenement</string>
+      <string>Italy</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+    </BuildingInfo>
+  </Building>
+  <Building xsi:type="Commercial">
+    <street>c</street>
+    <city>b</city>
+    <country>Bahamas</country>
+    <legalForm>Ownership</legalForm>
+    <typeOfBuilding>Warehouse</typeOfBuilding>
+    <zipCode>d</zipCode>
+    <id>a</id>
+    <BuildingInfo>
+      <string>a</string>
+      <string>Warehouse</string>
+      <string>Ownership</string>
+      <string>Bahamas</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+    </BuildingInfo>
+  </Building>
+  <Building xsi:type="Residental">
+    <street>c</street>
+    <city>b</city>
+    <country>Burkina_Faso</country>
+    <legalForm>Ownership</legalForm>
+    <typeOfBuilding>Villa</typeOfBuilding>
+    <zipCode>d</zipCode>
+    <id>a</id>
+    <BuildingInfo>
+      <string>a</string>
+      <string>Villa</string>
+      <string>Ownership</string>
+      <string>Sverige</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+    </BuildingInfo>
+  </Building>
+</ArrayOfBuilding>

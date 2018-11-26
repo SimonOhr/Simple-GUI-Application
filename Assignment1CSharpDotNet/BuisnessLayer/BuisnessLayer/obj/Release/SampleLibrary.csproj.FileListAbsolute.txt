@@ -1,0 +1,5 @@
+c:\users\ag9194\source\repos\SampleLibrary\SampleLibrary\bin\Release\SampleLibrary.dll
+c:\users\ag9194\source\repos\SampleLibrary\SampleLibrary\bin\Release\SampleLibrary.pdb
+c:\users\ag9194\source\repos\SampleLibrary\SampleLibrary\obj\Release\SampleLibrary.csproj.CoreCompileInputs.cache
+c:\users\ag9194\source\repos\SampleLibrary\SampleLibrary\obj\Release\SampleLibrary.dll
+c:\users\ag9194\source\repos\SampleLibrary\SampleLibrary\obj\Release\SampleLibrary.pdb

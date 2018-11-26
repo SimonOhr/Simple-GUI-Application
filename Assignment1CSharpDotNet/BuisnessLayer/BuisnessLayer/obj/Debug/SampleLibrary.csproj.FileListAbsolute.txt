@@ -1,0 +1,15 @@
+c:\users\ag9194\source\repos\SampleLibrary\SampleLibrary\bin\Debug\SampleLibrary.dll
+c:\users\ag9194\source\repos\SampleLibrary\SampleLibrary\bin\Debug\SampleLibrary.pdb
+c:\users\ag9194\source\repos\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
+c:\users\ag9194\source\repos\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.dll
+c:\users\ag9194\source\repos\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\SampleLibrary\SampleLibrary\bin\Debug\SampleLibrary.dll
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\SampleLibrary\SampleLibrary\bin\Debug\SampleLibrary.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.dll
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\SampleLibrary\SampleLibrary\bin\Debug\SampleLibrary.dll
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\SampleLibrary\SampleLibrary\bin\Debug\SampleLibrary.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.dll
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.pdb

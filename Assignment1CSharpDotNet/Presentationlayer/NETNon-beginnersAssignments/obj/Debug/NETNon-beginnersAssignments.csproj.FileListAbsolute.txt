@@ -1,0 +1,113 @@
+C:\Users\ag9194\source\repos\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+C:\Users\ag9194\source\repos\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+C:\Users\ag9194\source\repos\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\ag9194\source\repos\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csprojResolveAssemblyReference.cache
+C:\Users\ag9194\source\repos\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+C:\Users\ag9194\source\repos\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+C:\Users\ag9194\source\repos\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.Cache
+C:\Users\ag9194\source\repos\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+C:\Users\ag9194\source\repos\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+C:\Users\ag9194\source\repos\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csprojAssemblyReference.cache
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.cache
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csprojAssemblyReference.cache
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.cache
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Spellabb2018\Desktop\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment 1a\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment 1a\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment 1a\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment 1a\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment 1a\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment 1a\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment 1a\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment 1a\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\Assignment 1a\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+\\netapp01.mah.se\home\ag9194\My Desktop\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+\\netapp01.mah.se\home\ag9194\My Desktop\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+\\netapp01.mah.se\home\ag9194\My Desktop\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+\\netapp01.mah.se\home\ag9194\My Desktop\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.Cache
+\\netapp01.mah.se\home\ag9194\My Desktop\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+\\netapp01.mah.se\home\ag9194\My Desktop\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+\\netapp01.mah.se\home\ag9194\My Desktop\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Spellabb2018\Desktop\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+C:\Users\Spellabb2018\Desktop\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Spellabb2018\Desktop\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Spellabb2018\Desktop\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csprojAssemblyReference.cache
+C:\Users\Spellabb2018\Desktop\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+C:\Users\Spellabb2018\Desktop\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+C:\Users\Spellabb2018\Desktop\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.cache
+C:\Users\Spellabb2018\Desktop\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Spellabb2018\Desktop\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Spellabb2018\Desktop\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csprojResolveAssemblyReference.cache
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.Cache
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\SampleLibrary.dll
+\\netapp01.mah.se\home\ag9194\My Desktop\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\SampleLibrary.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\SampleLibrary.dll
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\SampleLibrary.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CopyComplete
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\c#DOTnetAssgn1av2\c#DOTnetAssgn1a\NETNon-beginnersAssignment1aSnartKlar\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CopyComplete
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+C:\Users\Simon\Desktop\SkolProjekt\År 3\c#.net\uppgiftMapp\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\ASSIGNMENT1CSSHARPDOTNET\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+\\netapp01.mah.se\home\ag9194\My Desktop\ASSIGNMENT1CSSHARPDOTNET\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+\\netapp01.mah.se\home\ag9194\My Desktop\ASSIGNMENT1CSSHARPDOTNET\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\ASSIGNMENT1CSSHARPDOTNET\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csprojResolveAssemblyReference.cache
+\\netapp01.mah.se\home\ag9194\My Desktop\ASSIGNMENT1CSSHARPDOTNET\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+\\netapp01.mah.se\home\ag9194\My Desktop\ASSIGNMENT1CSSHARPDOTNET\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+\\netapp01.mah.se\home\ag9194\My Desktop\ASSIGNMENT1CSSHARPDOTNET\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.Cache
+\\netapp01.mah.se\home\ag9194\My Desktop\ASSIGNMENT1CSSHARPDOTNET\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+\\netapp01.mah.se\home\ag9194\My Desktop\ASSIGNMENT1CSSHARPDOTNET\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+\\netapp01.mah.se\home\ag9194\My Desktop\ASSIGNMENT1CSSHARPDOTNET\NETNon-beginnersAssignment1\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\Assignment1CSharpDotNet\Presentationlayer\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe.config
+\\netapp01.mah.se\home\ag9194\My Desktop\Assignment1CSharpDotNet\Presentationlayer\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.exe
+\\netapp01.mah.se\home\ag9194\My Desktop\Assignment1CSharpDotNet\Presentationlayer\NETNon-beginnersAssignments\bin\Debug\NETNon-beginnersAssignments.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\Assignment1CSharpDotNet\Presentationlayer\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Form1.resources
+\\netapp01.mah.se\home\ag9194\My Desktop\Assignment1CSharpDotNet\Presentationlayer\NETNon-beginnersAssignments\obj\Debug\NETNon_beginnersAssignments.Properties.Resources.resources
+\\netapp01.mah.se\home\ag9194\My Desktop\Assignment1CSharpDotNet\Presentationlayer\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.GenerateResource.Cache
+\\netapp01.mah.se\home\ag9194\My Desktop\Assignment1CSharpDotNet\Presentationlayer\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csproj.CoreCompileInputs.cache
+\\netapp01.mah.se\home\ag9194\My Desktop\Assignment1CSharpDotNet\Presentationlayer\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.exe
+\\netapp01.mah.se\home\ag9194\My Desktop\Assignment1CSharpDotNet\Presentationlayer\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.pdb
+\\netapp01.mah.se\home\ag9194\My Desktop\Assignment1CSharpDotNet\Presentationlayer\NETNon-beginnersAssignments\obj\Debug\NETNon-beginnersAssignments.csprojResolveAssemblyReference.cache
